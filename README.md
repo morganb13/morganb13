@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morganb13
 - 👀 I’m interested in making interactive art
-- 🌱 I’m currently learning python and arduino
+- 🌱 I’m currently using python and arduino in art projects
 - 💞️ I’m looking to collaborate on Blender add ons
 
 
