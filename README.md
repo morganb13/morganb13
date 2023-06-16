@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morganb13
-- 👀 I’m interested in making interactive art
+- 👀 I’m a new media artist working with art and technology
 - 🌱 I’m currently using python and arduino in art projects
 - 💞️ I’m looking to collaborate on Blender add ons
 
